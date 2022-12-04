@@ -52,7 +52,7 @@ export function Home(){
     return(
         <SafeAreaView style={styles.container}>
             
-            <Text style={styles.title}>Welcome Maguila</Text>
+            <Text style={styles.title}>Welcome!</Text>
             <Text style={styles.greetings} >{greeting}</Text>
 
             <TextInput 
