@@ -1,7 +1,7 @@
 # myskills
 
-Aplicativo estilo TODO, com inserção itens. Projeto piloto da trilha de react native 2021 da rocketseat.
+TODO application, with inserting items. Rocketseat react native 2021 track pilot project.
 
-Melhorias:
+Improvements:
 
-[X] Remoção de Itens
+[X] Item Removal
